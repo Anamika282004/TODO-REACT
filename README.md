@@ -16,12 +16,5 @@ This Todo Application is a simple web-based task management tool built with Reac
 
 - **useState Hook**: React's `useState` hook is used to manage state within functional components.
 
-- **CSS**: Basic CSS styles are applied to the components to enhance the visual appearance of the application.
+- **Tailwind**: Basic Tailwind CSS styles are applied to the components to enhance the visual appearance of the application.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

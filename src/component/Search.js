@@ -9,7 +9,7 @@ function Search() {
      setitems('');
     }
     
-    //setTasks([...tasks, input]);
+    //setTasks([...tasks, input])
   return (
     <div class="flex items-center justify-center ">
         <div class="m-10 bg-yellow-50 w-96 h-96" >
